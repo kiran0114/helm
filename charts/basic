@@ -7,5 +7,5 @@ maintainers:
     name: Name
 name: dependencies-v1
 sources:
-  - https://github.com/kiran0114/helm/new/main
+  - https://github.com/kiran0114/helm/new
 version: 0.1.8
